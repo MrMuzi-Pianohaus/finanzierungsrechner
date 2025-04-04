@@ -1,3 +1,3 @@
 # Finanzierungsrechner
 
-Ein kleiner Rechner für Pianohaus Trübger.
+Ein einfacher Web-Rechner für Pianohaus Trübger.
